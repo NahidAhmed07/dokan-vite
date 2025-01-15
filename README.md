@@ -48,3 +48,5 @@ export default tseslint.config({
   },
 })
 ```
+
+https://drive.google.com/file/d/1SYPlTs72EJYwLljStK-DNTEnh62m3K_O/view?usp=sharing
